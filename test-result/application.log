@@ -1,0 +1,5 @@
+08 Tem 2011 23:57:15,190 INFO  ~ Starting /home/songul/helloWorld
+08 Tem 2011 23:57:16,090 WARN  ~ You're running Play! in DEV mode
+08 Tem 2011 23:57:16,282 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+08 Tem 2011 23:57:27,969 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+08 Tem 2011 23:57:28,038 INFO  ~ Application 'helloWorld' is now started !
